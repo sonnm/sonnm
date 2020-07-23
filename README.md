@@ -22,3 +22,5 @@ export default () => ({
   hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
 });
 ```
+![github stats](https://github-readme-stats.vercel.app/api?username=sonnm&show_icons=true)
+ 
