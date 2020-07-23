@@ -9,7 +9,6 @@ export default () => ({
     company: 'SOLID Engineer',
     position: 'Frontend Developer',
   },
-  hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
   technologies: {
     frontend: {
       js: ['react', 'vue', 'jquery'],
@@ -20,5 +19,6 @@ export default () => ({
       databases: ['mysql', 'couchbase', 'mongodb'],
     },
   },
+  hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
 });
 ```
