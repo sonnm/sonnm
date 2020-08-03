@@ -3,7 +3,7 @@
 ```javascript
 export default () => ({
   name: 'Son Nguyen',
-  emai: 'sono.online@gmail.com',
+  email: 'sono.online@gmail.com',
   pronouns: 'He' | 'Him',
   workspace: {
     company: 'SOLID Engineer',
