@@ -22,5 +22,4 @@ export default () => ({
   hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
 });
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnm)
 ![github stats](https://github-readme-stats.vercel.app/api?username=sonnm&show_icons=true)
