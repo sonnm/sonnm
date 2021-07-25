@@ -7,7 +7,7 @@ export default () => ({
   pronouns: 'He' | 'Him',
   workspace: {
     company: 'SOLID Engineer',
-    position: 'Frontend Developer',
+    position: 'Fullstack Developer',
   },
   technologies: {
     frontend: {
