@@ -15,8 +15,9 @@ export default () => ({
       css: ['bootstrap', 'tailwindcss'],
     },
     backend: {
+      go: ['fasthttp', 'gofiber'],
       php: ['yii', 'yii2', 'laravel'],
-      databases: ['mysql', 'couchbase', 'mongodb'],
+      databases: ['mysql', 'postgresql', 'couchbase', 'mongodb'],
     },
   },
   hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
