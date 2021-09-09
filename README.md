@@ -11,7 +11,7 @@ export default () => ({
   },
   technologies: {
     frontend: {
-      js: ['react', 'react native', 'vue', 'jquery'],
+      js: ['react', 'react native', 'nextjs', 'vue', 'jquery'],
       css: ['bootstrap', 'tailwindcss'],
     },
     backend: {
