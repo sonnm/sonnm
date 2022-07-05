@@ -6,8 +6,8 @@ export default () => ({
   email: 'sono.online@gmail.com',
   pronouns: 'He' | 'Him',
   workspace: {
-    company: 'SOLID Engineer',
-    position: 'Fullstack Developer',
+    company: 'Spiking',
+    position: 'Senior Software Engineer',
   },
   technologies: {
     frontend: {
