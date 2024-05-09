@@ -1,4 +1,4 @@
-<h2>Hi, I'm Rocky <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"></h2>
+<h2>Hi, I'm Rocky <img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e3ec486c-5da1-4e1b-9f52-dce0459adb1a_500x343.gif" width="50"></h2>
 
 ```javascript
 export default () => ({
@@ -23,4 +23,3 @@ export default () => ({
   hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
 });
 ```
-![github stats](https://github-readme-stats.vercel.app/api?username=sonnm&show_icons=true)
