@@ -1,4 +1,4 @@
-<h2>Hi, I'm Rocky <img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e3ec486c-5da1-4e1b-9f52-dce0459adb1a_500x343.gif" width="50"></h2>
+<h2>Hi, I'm Rocky <img src="https://raw.githubusercontent.com/sonnm/sonnm/master/typing_cat.gif" width="50"></h2>
 
 ```javascript
 export default () => ({
