@@ -4,7 +4,6 @@
 export default () => ({
   name: 'Son Nguyen (Rocky)',
   email: 'sono.online@gmail.com',
-  pronouns: 'He' | 'Him',
   workspace: {
     company: 'Spiking',
     position: 'Senior Software Engineer',
