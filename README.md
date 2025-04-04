@@ -10,13 +10,13 @@ export default () => ({
   },
   technologies: {
     frontend: {
-      js: ['react', 'react native', 'nextjs', 'vue', 'jquery'],
-      css: ['bootstrap', 'tailwindcss'],
+      js: ['nextjs', 'react', 'react native', 'vue', 'jquery'],
+      css: ['tailwindcss', 'bootstrap'],
     },
     backend: {
-      go: ['fasthttp', 'gofiber'],
-      php: ['yii', 'yii2', 'laravel'],
-      databases: ['mysql', 'postgresql', 'couchbase', 'mongodb'],
+      go: ['gofiber', 'echo', 'fasthttp'],
+      php: ['laravel', 'yii2', 'yii'],
+      databases: ['postgresql', 'mongodb', 'supabase', 'mysql', 'couchbase'],
     },
   },
   hobbies: ['coding', 'video game', 'guitar', 'gundam', 'beer'],
